@@ -1,0 +1,7 @@
+C:\Users\tanguturimanoj.kumar\source\repos\Classroom_Activities\Type_Master\bin\Debug\Type_Master.exe.config
+C:\Users\tanguturimanoj.kumar\source\repos\Classroom_Activities\Type_Master\bin\Debug\Type_Master.exe
+C:\Users\tanguturimanoj.kumar\source\repos\Classroom_Activities\Type_Master\bin\Debug\Type_Master.pdb
+C:\Users\tanguturimanoj.kumar\source\repos\Classroom_Activities\Type_Master\obj\Debug\Type_Master.csproj.AssemblyReference.cache
+C:\Users\tanguturimanoj.kumar\source\repos\Classroom_Activities\Type_Master\obj\Debug\Type_Master.csproj.CoreCompileInputs.cache
+C:\Users\tanguturimanoj.kumar\source\repos\Classroom_Activities\Type_Master\obj\Debug\Type_Master.exe
+C:\Users\tanguturimanoj.kumar\source\repos\Classroom_Activities\Type_Master\obj\Debug\Type_Master.pdb
